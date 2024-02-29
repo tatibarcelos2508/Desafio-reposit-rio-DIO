@@ -17,7 +17,7 @@
 1. [Sintaxe básica do Markdown](https://www.markdownguide.org)
 2. [GIT](https://git-scm.com/)
 
-
+***Caso vc tenha interesse em realizar cursos através desta grande plataforma digital de ensino de tecnologia, acesse o site da [DIO](https://www.dio.me/)***
 
 
 
