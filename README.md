@@ -1,4 +1,5 @@
-# Desafio-repositorio-DIO
+# Desafio-repositorio-DIO  ![image](https://github.com/tatibarcelos2508/Desafio-repositorio-DIO/assets/134459658/d848fa3e-3f67-41c0-b810-5f74a43280e3)
+
 
 ## Meu primeiro desafio de criar no Github o meu primeiro repositório através do curso da DIO.
 
@@ -18,6 +19,7 @@
 2. [GIT](https://git-scm.com/)
 
 ***Caso vc tenha interesse em realizar cursos através desta grande plataforma digital de ensino de tecnologia, acesse o site da [DIO](https://www.dio.me/)***
+
 
 
 
