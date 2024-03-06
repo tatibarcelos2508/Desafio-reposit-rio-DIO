@@ -17,7 +17,7 @@
 2. [GIT](https://git-scm.com/)
 
 
-## Neste repositório você terá acesso aos meus certificados já realizados através da plataforma DIO.
+## Neste repositório você terá acesso aos meus certificados e tarefas como desafios já realizados através da plataforma DIO.
 
 ***Caso vc tenha interesse em realizar cursos através desta grande plataforma digital de ensino de tecnologia, acesse o site da [DIO](https://www.dio.me/)***
 
